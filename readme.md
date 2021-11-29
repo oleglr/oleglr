@@ -316,19 +316,13 @@ Choose from any of the [default themes](#themes)
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/oleglr/github-readme-stats)
 
 ---
-
-### Quick Tip (Align The Repo Cards)
-
-You usually won't be able to layout the images side by side. To do that you can use this approach:
-
-```html
 <a href="https://github.com/oleglr/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=oleglr&repo=github-readme-stats" />
 </a>
 <a href="https://github.com/oleglr/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=oleglr&repo=convoychat" />
 </a>
-```
+
 #### [VIDEO CHANNEL FOR CREATIVITY AND INSPIRATION, PLEASANT WATCHING!](https://www.youtube.com/channel/UCjn8rb4iW1qWb3HVZyBCxwQ)
 ---
 
