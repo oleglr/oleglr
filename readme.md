@@ -19,7 +19,7 @@
     <br />
     <br />
     <a href="https://record.binary.com/_GNu7pR6ifo4ad7NeR55Oi2Nd7ZgqdRLk/1/">
-<img src="https://banners.binary.com/newtobinaryoptions/ru/nocurrency/gif/728x90.giff" alt="Partner XYZ link "/>
+<img src="https://js.partnershipsprogram.com/javascript.php?prefix=GNu7pR6ifo4ad7NeR55Oi2Nd7ZgqdRLk&amp;media=754&amp;campaign=1" alt="Partner XYZ link "/>
 </a>
     <a href="http://uid.me/masterxyz">
       <img src="http://xyzcreatorstrategy.ru/img/lable2.svg"/>
@@ -28,7 +28,7 @@
 <p>
 
 
-#🚥 STATUS PANEL OF THE PROJECT OF THE XYZ STRATEGY DEVELOPERS 🚥
+🚥 STATUS PANEL OF THE PROJECT OF THE XYZ STRATEGY DEVELOPERS 🚥
 
 Copy-paste this into your markdown content, and that's it. Simple!
 
