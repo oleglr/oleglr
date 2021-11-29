@@ -25,91 +25,12 @@
       <img src="https://img.shields.io/badge/Supported%20by-Node%20Cli.com%20%E2%86%92-gray.svg?colorA=61c265&colorB=4CAF50&style=for-the-badge"/>
     </a>
   </p>
-
-  <p align="center">
-    <a href="#demo">View Demo</a>
-    ·
-    <a href="https://github.com/oleglr/github-readme-stats/issues/new/choose">Report Bug</a>
-    ·
-    <a href="https://github.com/oleglr/github-readme-stats/issues/new/choose">Request Feature</a>
-  </p>
-  <p align="center">
-    <a href="/docs/readme_fr.md">Français </a>
-    ·
-    <a href="/docs/readme_cn.md">简体中文</a>
-    ·
-    <a href="/docs/readme_es.md">Español</a>
-    ·
-    <a href="/docs/readme_de.md">Deutsch</a>
-    ·
-    <a href="/docs/readme_ja.md">日本語</a>
-    ·
-    <a href="/docs/readme_pt-BR.md">Português Brasileiro</a>
-    ·
-    <a href="/docs/readme_it.md">Italiano</a>
-    ·
-    <a href="/docs/readme_kr.md">한국어</a>
-    .
-    <a href="/docs/readme_nl.md">Nederlands</a>
-    .
-    <a href="/docs/readme_np.md">नेपाली</a>
-    .
-    <a href="/docs/readme_tr.md">Türkçe</a>
-  </p>
-</p>
-<p align="center">Love the project? Please consider <a href="https://www.paypal.me/oleglr">donating</a> to help it improve!
-
-
 <p>
 <a href="https://indiafightscorona.giveindia.org">
 <img src="https://d2wvdrxmr8p0wf.cloudfront.net/static/giveindia.svg" alt="Give india logo" width="200" />
 </a>
 
-Are you considering to support the project by donating to me? Please DON'T!!  
-
-Instead, Help India fight 2nd deadly wave of COVID,  
-Thousands of people are dying in India for lack of Oxygen & COVID related necessary infrastructure.  
-
-Visit [https://indiafightscorona.giveindia.org](https://indiafightscorona.giveindia.org) and make a small donation to help us fight covid and overcome this crisis.   
-Your small help goes a long way. :heart:
-</p>
-
-
-# Features
-
-- [Features](#features)
-- [GitHub Stats Card](#github-stats-card)
-    - [Hiding individual stats](#hiding-individual-stats)
-    - [Adding private contributions count to total commits count](#adding-private-contributions-count-to-total-commits-count)
-    - [Showing icons](#showing-icons)
-    - [Themes](#themes)
-      - [All inbuilt themes :-](#all-inbuilt-themes--)
-    - [Customization](#customization)
-      - [Common Options:](#common-options)
-        - [Gradient in bg_color](#gradient-in-bg_color)
-      - [Stats Card Exclusive Options:](#stats-card-exclusive-options)
-      - [Repo Card Exclusive Options:](#repo-card-exclusive-options)
-      - [Language Card Exclusive Options:](#language-card-exclusive-options)
-      - [Wakatime Card Exclusive Options:](#wakatime-card-exclusive-options)
-- [GitHub Extra Pins](#github-extra-pins)
-    - [Usage](#usage)
-    - [Demo](#demo)
-- [Top Languages Card](#top-languages-card)
-    - [Usage](#usage-1)
-    - [Exclude individual repositories](#exclude-individual-repositories)
-    - [Hide individual languages](#hide-individual-languages)
-    - [Show more languages](#show-more-languages)
-    - [Compact Language Card Layout](#compact-language-card-layout)
-    - [Demo](#demo-1)
-- [Wakatime Week Stats](#wakatime-week-stats)
-    - [Demo](#demo-2)
-    - [All Demos](#all-demos)
-    - [Quick Tip (Align The Repo Cards)](#quick-tip-align-the-repo-cards)
-  - [Deploy on your own Vercel instance](#deploy-on-your-own-vercel-instance)
-      - [Check Out Step By Step Video Tutorial By @codeSTACKr](#check-out-step-by-step-video-tutorial-by-codestackr)
-  - [:sparkling_heart: Support the project](#sparkling_heart-support-the-project)
-
-# GitHub Stats Card
+# Stats Card
 
 Copy-paste this into your markdown content, and that's it. Simple!
 
