@@ -18,16 +18,17 @@
     </a>
     <br />
     <br />
+    <a href="https://record.binary.com/_GNu7pR6ifo4ad7NeR55Oi2Nd7ZgqdRLk/1/g">
+<img src="http://xyzcreatorstrategy.ru/img/banners/1xyzpartners-2-.gif" alt="Give india logo" width="200" />
+</a>
     <a href="http://uid.me/masterxyz">
       <img src="http://xyzcreatorstrategy.ru/img/lable2.svg"/>
     </a>
   </p>
 <p>
-<a href="https://record.binary.com/_GNu7pR6ifo4ad7NeR55Oi2Nd7ZgqdRLk/1/g">
-<img src="http://xyzcreatorstrategy.ru/img/banners/xyzpartners.gif" alt="Give india logo" width="200" />
-</a>
 
-# Stats Card
+
+#🚥 STATUS PANEL OF THE PROJECT OF THE XYZ STRATEGY DEVELOPERS 🚥
 
 Copy-paste this into your markdown content, and that's it. Simple!
 
