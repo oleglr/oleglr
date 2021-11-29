@@ -129,10 +129,12 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oleglr&show_icons=true&theme=radical)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oleglr&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+<!--
+
+[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oleglr&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=oleglr&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=oleglr&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515) -->
 
 
 <!-- [Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=oleglr&locale=es) -->
