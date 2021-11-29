@@ -75,7 +75,7 @@
 `?username=` 속성의 값을 Github 계정의 사용자 명(닉네임)으로 바꿔주세요.
 
 ```md
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oleglr)](https://github.com/anuraghazra/github-readme-stats)
 ```
 
 _참고:_
@@ -94,7 +94,7 @@ _[src/calculateRank.js](../src/calculateRank.js) 에서 수행되는 계산 작�
 > 사용 가능한 항목들: `&hide=stars,commits,prs,issues,contribs`
 
 ```md
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oleglr&hide=contribs,prs)
 ```
 
 ### 총 커밋 수에 비공개 기여도 (private contribs) 수 추가하기
@@ -106,7 +106,7 @@ _참고: 프로젝트를 직접 배포하신 경우, 비공개 기여도는 기�
 > 예시: `&count_private=true`
 
 ```md
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oleglr&count_private=true)
 ```
 
 ### 아이콘 표시하기
@@ -114,7 +114,7 @@ _참고: 프로젝트를 직접 배포하신 경우, 비공개 기여도는 기�
 아이콘 항목을 활성화 하기 위해선, 다음과 같이 `show_icons=true` 속성을 추가해주세요.
 
 ```md
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oleglr&show_icons=true)
 ```
 
 ### 테마 설정하기
@@ -124,7 +124,7 @@ _참고: 프로젝트를 직접 배포하신 경우, 비공개 기여도는 기�
 다음과 같이 `?theme=THEME_NAME` 속성을 이용해주세요.
 
 ```md
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oleglr&show_icons=true&theme=radical)
 ```
 
 #### 지원하는 내장 테마 목록
@@ -219,19 +219,19 @@ GitHub 저장소 여분 핀을 이용하면, 6개 이상의 저장소 핀을 여
 
 이 코드를 복사해서 여러분의 README 에 넣고 링크를 변경해주세요.
 
-엔드 포인트: `api/pin?username=anuraghazra&repo=github-readme-stats`
+엔드 포인트: `api/pin?username=oleglr&repo=github-readme-stats`
 
 ```md
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oleglr&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 ```
 
 ### 미리보기
 
-[![GitHub 저장소 핀 카드](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub 저장소 핀 카드](https://github-readme-stats.vercel.app/api/pin/?username=oleglr&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 [show_owner](#커스터마이징) 속성을 통해 저장소 소유자의 닉네임 표시 여부를 설정할 수 있어요.
 
-[![GitHub 저장소 핀 카드](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub 저장소 핀 카드](https://github-readme-stats.vercel.app/api/pin/?username=oleglr&repo=github-readme-stats&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
 
 # 언어 사용량 통계
 
@@ -245,10 +245,10 @@ _참고:
 
 이 코드를 복사해서 여러분의 README 에 넣고 링크를 변경해주세요.
 
-엔드 포인트: `api/top-langs?username=anuraghazra`
+엔드 포인트: `api/top-langs?username=oleglr`
 
 ```md
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oleglr)](https://github.com/anuraghazra/github-readme-stats)
 ```
 
 ### 통계에서 제외할 저장소 지정하기
@@ -256,7 +256,7 @@ _참고:
 `?exclude_repo=repo1,repo2` 속성을 통해 특정 저장소를 제외할 수 있어요.
 
 ```md
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oleglr&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
 ```
 
 ### 통계에서 특정 언어 제외하기
@@ -264,7 +264,7 @@ _참고:
 `?hide=language1,language2` 속성을 통해 특정 언어를 제외할 수 있어요.
 
 ```md
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oleglr&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
 ```
 
 ### 표시할 언어 수 지정하기
@@ -272,7 +272,7 @@ _참고:
 `&langs_count=` 속성을 통해 카드에 표시할 언어의 수를 지정할 수 있어요. (1-10 사이, 기본 값 : 5)
 
 ```md
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oleglr&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 ```
 
 ### 컴택트한 카드 레이아웃 설정하기
@@ -280,16 +280,16 @@ _참고:
 `&layout=compact` 속성을 통해 카드의 디자인을 변경할 수 있어요.
 
 ```md
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oleglr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ```
 
 ### 미리보기
 
-[![언어 사용량 통계](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![언어 사용량 통계](https://github-readme-stats.vercel.app/api/top-langs/?username=oleglr)](https://github.com/anuraghazra/github-readme-stats)
 
 - 컴팩트한 레이아웃
 
-[![언어 사용량 통계](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![언어 사용량 통계](https://github-readme-stats.vercel.app/api/top-langs/?username=oleglr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 # Wakatime 주간 통계
 
@@ -315,45 +315,45 @@ _참고:
 
 - 기본
 
-![Anurag 님의 GitHub 사용량 통계](https://github-readme-stats.vercel.app/api?username=anuraghazra)
+![Anurag 님의 GitHub 사용량 통계](https://github-readme-stats.vercel.app/api?username=oleglr)
 
 - 특정 통계 내용 숨김
 
-![Anurag 님의 GitHub 사용량 통계](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,issues)
+![Anurag 님의 GitHub 사용량 통계](https://github-readme-stats.vercel.app/api?username=oleglr&hide=contribs,issues)
 
 - 아이콘 표시
 
-![Anurag 님의 GitHub 사용량 통계](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=issues&show_icons=true)
+![Anurag 님의 GitHub 사용량 통계](https://github-readme-stats.vercel.app/api?username=oleglr&hide=issues&show_icons=true)
 
 - 전체 커밋 포함 시
 
-![Anurag 님의 GitHub 사용량 통계](https://github-readme-stats.vercel.app/api?username=anuraghazra&include_all_commits=true)
+![Anurag 님의 GitHub 사용량 통계](https://github-readme-stats.vercel.app/api?username=oleglr&include_all_commits=true)
 
 - 테마들
 
 [내장 테마](#themes) 에서 직접 선택해보세요
 
-![Anurag 님의 GitHub 사용량 통계](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag 님의 GitHub 사용량 통계](https://github-readme-stats.vercel.app/api?username=oleglr&show_icons=true&theme=radical)
 
 - 그라데이션 주기
 
-![Anurag 님의 GitHub 사용량 통계](https://github-readme-stats.vercel.app/api?username=anuraghazra&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+![Anurag 님의 GitHub 사용량 통계](https://github-readme-stats.vercel.app/api?username=oleglr&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 - 통계 카드 커스터마이징하기
 
-![Anurag 님의 GitHub 사용량 통계](https://github-readme-stats.vercel.app/api/?username=anuraghazra&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![Anurag 님의 GitHub 사용량 통계](https://github-readme-stats.vercel.app/api/?username=oleglr&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 - 언어 사용 지역 설정하기
 
-![Anurag 님의 GitHub 사용량 통계](https://github-readme-stats.vercel.app/api/?username=anuraghazra&locale=kr)
+![Anurag 님의 GitHub 사용량 통계](https://github-readme-stats.vercel.app/api/?username=oleglr&locale=kr)
 
 - 저장소 핀 커스터마이징하기
 
-![Anurag 님의 GitHub 저장소 핀](https://github-readme-stats.vercel.app/api/pin?username=anuraghazra&repo=github-readme-stats&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
+![Anurag 님의 GitHub 저장소 핀](https://github-readme-stats.vercel.app/api/pin?username=oleglr&repo=github-readme-stats&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
 
 - 언어 사용량 통계
 
-[![언어 사용량 통계](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![언어 사용량 통계](https://github-readme-stats.vercel.app/api/top-langs/?username=oleglr)](https://github.com/anuraghazra/github-readme-stats)
 
 - Wakatime 카드
 
@@ -369,10 +369,10 @@ _참고:
 
 ```md
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=oleglr&repo=github-readme-stats" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=oleglr&repo=convoychat" />
 </a>
 ```
 
