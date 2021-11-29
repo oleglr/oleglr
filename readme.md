@@ -90,7 +90,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oleglr&layout=compact)](https://github.com/oleglr/github-readme-stats)
 ```
 -->
-
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oleglr)](https://github.com/oleglr/github-readme-stats)
 
 
@@ -99,9 +99,11 @@
 
 ```md
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/oleglr/github-readme-stats)
-```
+``` -->
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/oleglr/github-readme-stats)
+
+<!--
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&hide_progress=true)](https://github.com/oleglr/github-readme-stats)
 
@@ -110,19 +112,19 @@
 
 ---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oleglr)
+[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oleglr)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oleglr&hide=contribs,issues)
+[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oleglr&hide=contribs,issues)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oleglr&hide=issues&show_icons=true)
+[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oleglr&hide=issues&show_icons=true)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oleglr&border_color=2e4058)
+[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oleglr&border_color=2e4058)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oleglr&include_all_commits=true)
+[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oleglr&include_all_commits=true) -->
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oleglr&show_icons=true&theme=radical)
