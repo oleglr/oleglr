@@ -17,17 +17,10 @@
       <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/oleglr/github-readme-stats?color=0088ff" />
     </a>
     <br />
-
+    <br />
+    <a href="https://track.deriv.com/_GNu7pR6ifo50QQMXeD9If2Nd7ZgqdRLk/1/">
 <img src="http://xyzcreatorstrategy.ru/img/banners/en001-970x60.jpg" alt="Partner XYZ link "/>
 </a>
-
----
-
-    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oleglr&show_icons=true&theme=radical)
-    <a href="https://track.deriv.com/_GNu7pR6ifo50QQMXeD9If2Nd7ZgqdRLk/1/">
-
----
-
     <a href="http://uid.me/masterxyz">
       <img src="http://xyzcreatorstrategy.ru/img/lable2.svg"/>
     </a>
@@ -134,7 +127,7 @@
 [Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oleglr&include_all_commits=true) -->
 
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oleglr&show_icons=true&theme=radical)
 
 <!--
 
