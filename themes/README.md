@@ -179,6 +179,6 @@ Use `?theme=THEME_NAME` parameter like so :-
 [aura_repo]: https://github-readme-stats.vercel.app/api/pin/?username=oleglr&repo=github-readme-stats&cache_seconds=86400&theme=aura
 
 
-[add-theme]: https://github.com/anuraghazra/github-readme-stats/edit/master/themes/index.js
+[add-theme]: https://github.com/oleglr/github-readme-stats/edit/master/themes/index.js
 
 Want to add a new theme? Consider reading the [contribution guidelines](../CONTRIBUTING.md#themes-contribution) :D

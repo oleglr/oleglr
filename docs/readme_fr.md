@@ -1,20 +1,20 @@
 <p align="center">
- <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
+ <img width="100px" src="https://res.cloudinary.com/oleglr/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
  <h2 align="center">GitHub Readme Stats</h2>
  <p align="center">Obtenez des statistiques GitHub générées dynamiquement sur vos Readme !</p>
 </p>
   <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats/actions">
-      <img alt="Tests Passing" src="https://github.com/anuraghazra/github-readme-stats/workflows/Test/badge.svg" />
+    <a href="https://github.com/oleglr/github-readme-stats/actions">
+      <img alt="Tests Passing" src="https://github.com/oleglr/github-readme-stats/workflows/Test/badge.svg" />
     </a>
-    <a href="https://codecov.io/gh/anuraghazra/github-readme-stats">
-      <img src="https://codecov.io/gh/anuraghazra/github-readme-stats/branch/master/graph/badge.svg" />
+    <a href="https://codecov.io/gh/oleglr/github-readme-stats">
+      <img src="https://codecov.io/gh/oleglr/github-readme-stats/branch/master/graph/badge.svg" />
     </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats/issues">
-      <img alt="Issues" src="https://img.shields.io/github/issues/anuraghazra/github-readme-stats?color=0088ff" />
+    <a href="https://github.com/oleglr/github-readme-stats/issues">
+      <img alt="Issues" src="https://img.shields.io/github/issues/oleglr/github-readme-stats?color=0088ff" />
     </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats/pulls">
-      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/anuraghazra/github-readme-stats?color=0088ff" />
+    <a href="https://github.com/oleglr/github-readme-stats/pulls">
+      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/oleglr/github-readme-stats?color=0088ff" />
     </a>
     <br />
     <br />
@@ -29,9 +29,9 @@
   <p align="center">
     <a href="#démo">Voir la démo</a>
     ·
-    <a href="https://github.com/anuraghazra/github-readme-stats/issues/new/choose">Soumettre un bug</a>
+    <a href="https://github.com/oleglr/github-readme-stats/issues/new/choose">Soumettre un bug</a>
     ·
-    <a href="https://github.com/anuraghazra/github-readme-stats/issues/new/choose">Demander une nouveauté</a>
+    <a href="https://github.com/oleglr/github-readme-stats/issues/new/choose">Demander une nouveauté</a>
   </p>
   <p align="center">
     <a href="/docs/readme_fr.md">Français</a>
@@ -55,7 +55,7 @@
     <a href="/docs/readme_np.md">नेपाली</a>
   </p>
 </p>
-<p align="center">Vous aimez ce projet? Pensez <a href="https://www.paypal.me/anuraghazra">à faire un don</a> pour l'améliorer!
+<p align="center">Vous aimez ce projet? Pensez <a href="https://www.paypal.me/oleglr">à faire un don</a> pour l'améliorer!
 
 # Features
 
@@ -73,7 +73,7 @@ Copiez-collez ceci dans votre Markdown, et c'est tout. C'est simple !
 Remplacez la valeur `?username=` par le nom d'utilisateur de votre GitHub.
 
 ```md
-[![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=oleglr)](https://github.com/anuraghazra/github-readme-stats)
+[![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=oleglr)](https://github.com/oleglr/github-readme-stats)
 ```
 
 _Note: Les rangs sont calculés sur la base des statistiques de l'utilisateur, voir [src/calculateRank.js](../src/calculateRank.js)_
@@ -122,7 +122,7 @@ Use `?theme=THEME_NAME` parameter like so :-
 
 dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
 
-<img src="https://res.cloudinary.com/anuraghazra/image/upload/v1595174536/grs-themes_l4ynja.png" alt="GitHub Readme Stat Themes" width="600px"/>
+<img src="https://res.cloudinary.com/oleglr/image/upload/v1595174536/grs-themes_l4ynja.png" alt="GitHub Readme Stat Themes" width="600px"/>
 
 Vous pouvez consulter un aperçu de [tous les thèmes disponibles](../themes/README.md) ou consulter le [fichier de configuration des thèmes](../themes/index.js) & **vous pouvez également ajouter de nouveaux thèmes** si vous le souhaitez :D
 
@@ -191,16 +191,16 @@ Copiez-collez ce code dans votre readme et modifiez les liens.
 Extrémité: `api/pin?username=oleglr&repo=github-readme-stats`
 
 ```md
-[![Carte ReadMe](https://github-readme-stats.vercel.app/api/pin/?username=oleglr&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Carte ReadMe](https://github-readme-stats.vercel.app/api/pin/?username=oleglr&repo=github-readme-stats)](https://github.com/oleglr/github-readme-stats)
 ```
 
 ### Démo
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oleglr&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oleglr&repo=github-readme-stats)](https://github.com/oleglr/github-readme-stats)
 
 Utiliser la variable [show_owner](#customization) pour inclure le nom d'utilisateur du propriétaire du dépôt.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oleglr&repo=github-readme-stats&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oleglr&repo=github-readme-stats&show_owner=true)](https://github.com/oleglr/github-readme-stats)
 
 # Carte des langages les + utilisés
 
@@ -215,7 +215,7 @@ Copiez-collez ce code dans votre readme et modifiez les liens.
 Extrémité: `api/top-langs?username=oleglr`
 
 ```md
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oleglr)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oleglr)](https://github.com/oleglr/github-readme-stats)
 ```
 
 ### Cacher certaines langages
@@ -223,7 +223,7 @@ Extrémité: `api/top-langs?username=oleglr`
 Vous pouvez utiliser le paramètre `?hide=language1,language2` pour masquer les langages individuels.
 
 ```md
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oleglr&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oleglr&hide=javascript,html)](https://github.com/oleglr/github-readme-stats)
 ```
 
 ### Carte compacte des langages
@@ -231,16 +231,16 @@ Vous pouvez utiliser le paramètre `?hide=language1,language2` pour masquer les 
 Vous pouvez utiliser l'option `&layout=compact` pour changer le style de la carte.
 
 ```md
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oleglr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oleglr&layout=compact)](https://github.com/oleglr/github-readme-stats)
 ```
 
 ### Démo
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oleglr)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oleglr)](https://github.com/oleglr/github-readme-stats)
 
 - Carte compacte
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oleglr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oleglr&layout=compact)](https://github.com/oleglr/github-readme-stats)
 
 ---
 
@@ -282,7 +282,7 @@ Choisissez parmi l'un des [thèmes par défaut](#themes)
 
 - Top Langages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oleglr)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oleglr)](https://github.com/oleglr/github-readme-stats)
 
 ---
 
@@ -291,10 +291,10 @@ Choisissez parmi l'un des [thèmes par défaut](#themes)
 En général, vous ne pourrez pas mettre les images côte à côte. Pour ce faire, vous pouvez utiliser cette approche :
 
 ```md
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/oleglr/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=oleglr&repo=github-readme-stats" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/oleglr/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=oleglr&repo=convoychat" />
 </a>
 ```
@@ -305,9 +305,9 @@ En général, vous ne pourrez pas mettre les images côte à côte. Pour ce fair
 
 Comme l'API GitHub ne permet que 5k requêtes par heure, il est possible que mon `https://github-readme-stats.vercel.app/api` puisse atteindre le limiteur de débit. Si vous l'hébergez sur votre propre serveur Vercel, alors vous n'avez pas à vous soucier de quoi que ce soit. Cliquez sur le bouton de déploiement pour commencer !
 
-NOTE: Depuis [#58](https://github.com/anuraghazra/github-readme-stats/pull/58) nous devrions être en mesure de traiter plus de 5 000 demandes et ne pas avoir de problèmes de temps d'arrêt :D
+NOTE: Depuis [#58](https://github.com/oleglr/github-readme-stats/pull/58) nous devrions être en mesure de traiter plus de 5 000 demandes et ne pas avoir de problèmes de temps d'arrêt :D
 
-[![Deployer avec Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/anuraghazra/github-readme-stats)
+[![Deployer avec Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/oleglr/github-readme-stats)
 
 <details>
  <summary><b> Guide pour la mise en place de Vercel  🔨 </b></summary>
@@ -338,7 +338,7 @@ Cependant, si vous utilisez ce projet et que vous en êtes satisfait ou si vous 
 
 - Donner un crédit approprié lorsque vous utilisez github-readme-stats sur votre readme, avec un lien vers celui-ci :D
 - Mettre une étoile et partager le projet :rocket:
-- [![paypal.me/anuraghazra](https://ionicabizau.github.io/badges/paypal.svg)](https://www.paypal.me/anuraghazra) - Vous pouvez faire des dons uniques via PayPal. Je vais probablement acheter un ~~café~~ thé. :tea:
+- [![paypal.me/oleglr](https://ionicabizau.github.io/badges/paypal.svg)](https://www.paypal.me/oleglr) - Vous pouvez faire des dons uniques via PayPal. Je vais probablement acheter un ~~café~~ thé. :tea:
 
 Merci ! :heart:
 
