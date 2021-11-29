@@ -1,7 +1,7 @@
 <p align="center">
- ![download (1)](https://user-images.githubusercontent.com/28340408/143895254-5228883f-5152-48e1-ba13-ba3156fd2fce.gif)
- <h2 align="center">GitHub Readme Stats</h2>
- <p align="center">Get dynamically generated GitHub stats on your readmes!</p>
+ <img src="https://user-images.githubusercontent.com/28340408/143895254-5228883f-5152-48e1-ba13-ba3156fd2fce.gif" width="600" height="200" />
+ <h2 align="center">XYZ STRATEGY TEAM </h2>
+ <p align="center">CREATION AND DEVELOPMENT OF TRADING SOFTWARE SPECIALLY FOR THE XYZ STRATEGY GROUP!</p>
 </p>
   <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats/actions">
