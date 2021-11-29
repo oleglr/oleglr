@@ -18,9 +18,7 @@
     </a>
     <br />
     <br />
-    <a href="https://record.binary.com/_GNu7pR6ifo4ad7NeR55Oi2Nd7ZgqdRLk/1/g">
-<img src="http://xyzcreatorstrategy.ru/img/banners/1xyzpartners-2-.gif" alt="Give india logo" width="200" />
-</a>
+  <script type="text/javascript" src="https://js.partnershipsprogram.com/javascript.php?prefix=GNu7pR6ifo4IMV8JnZ5O5GNd7ZgqdRLk&amp;media=3127&amp;campaign=1"></script>
     <a href="http://uid.me/masterxyz">
       <img src="http://xyzcreatorstrategy.ru/img/lable2.svg"/>
     </a>
