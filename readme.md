@@ -133,21 +133,22 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=oleglr&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=oleglr&locale=es)
+<!-- [Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=oleglr&locale=es) -->
 
 
 ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=oleglr&repo=github-readme-stats&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
 
-
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oleglr)](https://github.com/oleglr/github-readme-stats)
 
 
-<!--[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/oleglr/github-readme-stats) -->
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/oleglr/github-readme-stats) 
 
 
 <a href="https://github.com/oleglr/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=oleglr&repo=github-readme-stats" />
 </a>
+-->
 ---
 #### [VIDEO CHANNEL FOR CREATIVITY AND INSPIRATION, PLEASANT WATCHING!](https://www.youtube.com/channel/UCjn8rb4iW1qWb3HVZyBCxwQ)
 ---
