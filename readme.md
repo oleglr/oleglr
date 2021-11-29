@@ -1,6 +1,5 @@
 <p align="center">
- <img width="100px" src="https://user-images.githubusercontent.com/28340408/143894922-0067cc59-b598-436b-8814-bd3ddeb40269.gif
-" align="center" alt="GitHub Readme Stats" />
+ ![download (1)](https://user-images.githubusercontent.com/28340408/143895254-5228883f-5152-48e1-ba13-ba3156fd2fce.gif)
  <h2 align="center">GitHub Readme Stats</h2>
  <p align="center">Get dynamically generated GitHub stats on your readmes!</p>
 </p>
