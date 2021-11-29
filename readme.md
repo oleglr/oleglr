@@ -18,7 +18,9 @@
     </a>
     <br />
     <br />
-  <script type="text/javascript" src="https://js.partnershipsprogram.com/javascript.php?prefix=GNu7pR6ifo4IMV8JnZ5O5GNd7ZgqdRLk&amp;media=3127&amp;campaign=1"></script>
+    <a href="https://record.binary.com/_GNu7pR6ifo4ad7NeR55Oi2Nd7ZgqdRLk/1/">
+<img src="https://banners.binary.com/newtobinaryoptions/ru/nocurrency/gif/728x90.giff" alt="Partner XYZ link "/>
+</a>
     <a href="http://uid.me/masterxyz">
       <img src="http://xyzcreatorstrategy.ru/img/lable2.svg"/>
     </a>
