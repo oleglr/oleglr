@@ -18,8 +18,8 @@
     </a>
     <br />
     <br />
-    <a href="https://record.binary.com/_GNu7pR6ifo4ad7NeR55Oi2Nd7ZgqdRLk/1/">
-<img src="https://js.partnershipsprogram.com/javascript.php?prefix=GNu7pR6ifo4ad7NeR55Oi2Nd7ZgqdRLk&amp;media=754&amp;campaign=1" alt="Partner XYZ link "/>
+    <a href="https://track.deriv.com/_GNu7pR6ifo50QQMXeD9If2Nd7ZgqdRLk/1/">
+<img src="http://xyzcreatorstrategy.ru/img/banners/en001-970x60.jpg" alt="Partner XYZ link "/>
 </a>
     <a href="http://uid.me/masterxyz">
       <img src="http://xyzcreatorstrategy.ru/img/lable2.svg"/>
@@ -27,8 +27,9 @@
   </p>
 <p>
 
-
+ <p align="center">
 🚥 STATUS PANEL OF THE PROJECT OF THE XYZ STRATEGY DEVELOPERS 🚥
+<p>
 
 Copy-paste this into your markdown content, and that's it. Simple!
 
