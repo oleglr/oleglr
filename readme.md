@@ -6,9 +6,7 @@
   <p align="center">
   
 
-    <a href="https://track.deriv.com/_GNu7pR6ifo50QQMXeD9If2Nd7ZgqdRLk/1/">
-<img src="http://xyzcreatorstrategy.ru/img/banners/en001-970x60.jpg" alt="Partner XYZ link "/>
-</a>
+   
     <a href="http://uid.me/masterxyz">
       <img src="http://xyzcreatorstrategy.ru/img/lable2.svg"/>
     </a>
