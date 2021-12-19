@@ -10,7 +10,7 @@
 🚥 STATUS PANEL OF THE PROJECT OF THE XYZ STRATEGY DEVELOPERS 🚥
 <h2>
 
-
+ <div align="center">
 <!--
 ```md
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oleglr)](https://github.com/oleglr/github-readme-stats)
@@ -29,7 +29,7 @@
 ```md
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oleglr&show_icons=true&theme=radical)
 ```
-
+</div>
 
 <img src="https://res.cloudinary.com/oleglr/image/upload/v1595174536/grs-themes_l4ynja.png" alt="GitHub Readme Stats Themes" width="600px"/>
 
@@ -120,7 +120,7 @@
 
 
 ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=oleglr&repo=github-readme-stats&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
- </div>
+
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oleglr)](https://github.com/oleglr/github-readme-stats)
 
@@ -132,6 +132,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=oleglr&repo=github-readme-stats" />
 </a>
 -->
+</div>
 ---
 #### [VIDEO CHANNEL FOR CREATIVITY AND INSPIRATION, PLEASANT WATCHING!](https://www.youtube.com/channel/UCjn8rb4iW1qWb3HVZyBCxwQ)
 ---
