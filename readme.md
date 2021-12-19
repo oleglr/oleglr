@@ -105,7 +105,7 @@
 
 [Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oleglr&include_all_commits=true) -->
 
- <div align="center">
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oleglr&show_icons=true&theme=radical)
 
 <!--
