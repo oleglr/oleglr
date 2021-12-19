@@ -105,7 +105,7 @@
 
 [Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oleglr&include_all_commits=true) -->
 
-
+ <div align="center">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oleglr&show_icons=true&theme=radical)
 
 <!--
@@ -120,7 +120,7 @@
 
 
 ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=oleglr&repo=github-readme-stats&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
-
+ </div>
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oleglr)](https://github.com/oleglr/github-readme-stats)
 
