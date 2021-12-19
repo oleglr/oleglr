@@ -5,10 +5,10 @@
 
  
 
- <p align="center">
+ <h2 align="center">
  
 🚥 STATUS PANEL OF THE PROJECT OF THE XYZ STRATEGY DEVELOPERS 🚥
-<p>
+<h2>
 
 
 <!--
@@ -80,7 +80,7 @@
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/oleglr/github-readme-stats)
 ``` -->
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/oleglr/github-readme-stats)
+
 
 <!--
 
