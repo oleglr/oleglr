@@ -132,9 +132,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=oleglr&repo=github-readme-stats" />
 </a>
 -->
-</div>
+
 ---
 #### [VIDEO CHANNEL FOR CREATIVITY AND INSPIRATION, PLEASANT WATCHING!](https://www.youtube.com/channel/UCjn8rb4iW1qWb3HVZyBCxwQ)
 ---
 
 [![https://vercel.com?utm_source=github_readme_stats_team&utm_campaign=oss](./powered-by-vercel.svg)](https://vercel.com?utm_source=github_readme_stats_team&utm_campaign=oss)
+</div>
