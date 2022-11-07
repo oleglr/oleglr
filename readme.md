@@ -9,7 +9,13 @@
  
 🚥 STATUS PANEL OF THE PROJECT OF THE XYZ STRATEGY DEVELOPERS 🚥
 <h2>
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
+ 
  <div align="center">
 <!--
 ```md
@@ -132,12 +138,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=oleglr&repo=github-readme-stats" />
 </a>
 -->
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
+
 ---
 #### [VIDEO CHANNEL FOR CREATIVITY AND INSPIRATION, PLEASANT WATCHING!](https://www.youtube.com/channel/UCjn8rb4iW1qWb3HVZyBCxwQ)
 ---
