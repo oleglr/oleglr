@@ -112,7 +112,7 @@
 [Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oleglr&include_all_commits=true) -->
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oleglr&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oleglr&hide=stars,commits,prs,issues,contribs,show_icons=true&theme=radical)
 
 <!--
 
