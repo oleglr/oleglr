@@ -1,6 +1,7 @@
 <p align="center">
 <a href="http://xyzcreatorstrategy.ru/"><img src="https://user-images.githubusercontent.com/28340408/143895254-5228883f-5152-48e1-ba13-ba3156fd2fce.gif" width="600" height="200" />
  <h2 align="center"> :heart: XYZ STRATEGY TEAM  :heart:</h2>
+ <a href="http://xyzcreatorstrategy.ru/"><img src="[https://user-images.githubusercontent.com/28340408/143895254-5228883f-5152-48e1-ba13-ba3156fd2fce.gif](https://xyzcreatorstrategy.ru/img/DEVIMAGES/120221104_010300.gif)" width="600" height="200" />
  <p align="center">CREATION AND DEVELOPMENT OF TRADING SOFTWARE SPECIALLY FOR THE XYZ STRATEGY GROUP!</p>
 
  
@@ -9,12 +10,6 @@
  
 🚥 STATUS PANEL OF THE PROJECT OF THE XYZ STRATEGY DEVELOPERS 🚥
 <h2>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
  
  <div align="center">
 <!--
@@ -110,9 +105,14 @@
 
 
 [Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oleglr&include_all_commits=true) -->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=oleglr&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=oleglr&show_icons=true&theme=radical" />
+</a>
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oleglr&show_icons=true&theme=radical)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oleglr&show_icons=true&theme=radical) -->
 
 <!--
 
