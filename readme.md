@@ -105,10 +105,10 @@
 
 
 [Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oleglr&include_all_commits=true) -->
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/oleglr/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=oleglr&repo=github-readme-stats" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/oleglr/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=oleglr&show_icons=true&theme=radical" />
 </a>
 
