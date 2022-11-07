@@ -105,13 +105,17 @@
 
 
 [Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oleglr&include_all_commits=true) -->
-<a href="https://github.com/oleglr/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=oleglr&repo=github-readme-stats" />
-</a>
+
+  
 <a href="https://github.com/oleglr/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=oleglr&show_icons=true&theme=radical" />
 </a>
+  
+  <a href="https://github.com/oleglr/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=oleglr&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+</a>
 
+  
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oleglr&show_icons=true&theme=radical) -->
 
 <!--
