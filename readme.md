@@ -108,7 +108,7 @@
 
   
 <a href="https://github.com/oleglr/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=oleglr&show_icons=true&theme=aura" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=oleglr&show_icons=true&theme=aura&bg_color=00000000" />
 </a>
   
   <!-- <a href="https://github.com/oleglr/github-readme-stats">
