@@ -144,7 +144,7 @@
 -->
 <a href="http://xyzcreatorstrategy.ru/"><img src="https://github.com/oleglr/oleglr/blob/main/imggif/20221104_010300.gif" width="600" height="600" />
 ---
-#### [VIDEO CHANNEL FOR CREATIVITY AND INSPIRATION, PLEASANT WATCHING!](https://www.youtube.com/channel/UCjn8rb4iW1qWb3HVZyBCxwQ)
+#### [VIDEO CHANNEL FOR CREATIVITY AND INSPIRATION, PLEASANT WATCHING!](https://rutube.ru/channel/30094814/)
 ---
 
 [![https://vercel.com?utm_source=github_readme_stats_team&utm_campaign=oss](./powered-by-vercel.svg)](https://vercel.com?utm_source=github_readme_stats_team&utm_campaign=oss)
