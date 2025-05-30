@@ -142,7 +142,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=oleglr&repo=github-readme-stats" />
 </a>
 -->
-<a href="https://t.me/XYZSTRATTEGY"><img src="https://github.com/oleglr/oleglr/blob/main/imggif/20221104_010300.gif" width="600" height="600" />
+<a href="https://t.me/XYZSTRATTEGY"><img src="https://github.com/oleglr/oleglr/blob/main/imggif/20221104_010300.gif" width="600" height="480" />
 ---
 #### [VIDEO CHANNEL FOR CREATIVITY AND INSPIRATION, PLEASANT WATCHING!](https://rutube.ru/channel/30094814/)
 ---
