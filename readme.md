@@ -1,5 +1,5 @@
 <p align="center">
-<a href="http://xyzcreatorstrategy.ru/"><img src="https://user-images.githubusercontent.com/28340408/143895254-5228883f-5152-48e1-ba13-ba3156fd2fce.gif" width="600" height="200" />
+<a href="https://vk.com/kodxyzclub"><img src="https://user-images.githubusercontent.com/28340408/143895254-5228883f-5152-48e1-ba13-ba3156fd2fce.gif" width="600" height="200" />
  <h2 align="center"> :heart: XYZ STRATEGY TEAM  :heart:</h2>
 
  <p align="center">CREATION AND DEVELOPMENT OF TRADING SOFTWARE SPECIALLY FOR THE XYZ STRATEGY GROUP!</p>
